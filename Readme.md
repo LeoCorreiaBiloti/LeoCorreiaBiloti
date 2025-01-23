@@ -1,4 +1,4 @@
-<h1>Hello</h1>👋, my name is Leonardo Correia
+<h1>Hello👋</h1><h2>my name is Leonardo Correia</h2>
 <br>
 Currently data Analysis and Development Student at Fiap College, always looking for new knowledge and experiences
 <h2>Knowledge</h2>
